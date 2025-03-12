@@ -11,6 +11,8 @@ This is a web application that displays a beautiful fireworks show with synchron
 - **Responsive Design**: The canvas and countdown timer are responsive and adjust to different screen sizes.
 - **Music Control**: If autoplay fails, a button appears to manually start the background music.
 
+![App Screenshot](image.png)
+
 ## How to Use
 
 1. Open the `index.html` file in a web browser.
